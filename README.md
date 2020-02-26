@@ -56,7 +56,11 @@ http://www.muktopaath.gov.bd/
 বাংলায় যারা প্রোগ্রামিং টিউটোরিয়াল বানাচ্ছেন
 
 Tamim Shahriar - https://www.youtube.com/user/subeents/videos
+
 Mahmud Ahsan - https://www.youtube.com/cha…/UCtHlgyUw0wLE5Ous9swfFlg/videos
+
 StartBit - https://www.youtube.com/cha…/UC-EN-c1TgNYbMnPc0DpBwkQ/videos
+
 eShikhon - https://www.youtube.com/cha…/UCWnDDTyhKFZ3cXfWPaBuiOw/videos
+
 Anisul Islam - https://www.youtube.com/user/ANIS3730/videos
