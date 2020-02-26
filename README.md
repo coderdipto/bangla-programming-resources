@@ -1,5 +1,5 @@
 # Bangla Programming Resources
-## Curated list of different programming resources in Bangla
+## List of different programming resources in Bangla Language
 
 ### বাংলা প্রোগ্রামিং ল্যাঙ্গুয়েজ 
 
