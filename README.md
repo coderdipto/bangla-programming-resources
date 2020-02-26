@@ -3,7 +3,8 @@
 
 বাংলা প্রোগ্রামিং ল্যাঙ্গুয়েজ 
 
-http://potaka.io/ &nbsp;
+http://potaka.io/
+
 https://github.com/ikrum/potaka/tree/master/docs
 
 বাংলায় প্রোগ্রামিং রিসোর্সের চমৎকার তালিকা
@@ -13,20 +14,35 @@ https://github.com/me-shaon/bangla-programming-resources
 বাংলা ভাষায় প্রোগ্রামিং ব্লগ সমূহ
 
 http://apikothon.com/
+
 http://www.shafaetsplanet.com/planetcoding/
+
 http://cpbook.subeen.com/
+
 https://zobayer2009.wordpress.com/
+
 https://sites.google.com/site/smilitude
+
 http://www.progkriya.org/
+
 https://sites.google.com/site/programinggconcept/
+
 https://mukitmkbs.wordpress.com/
+
 https://hellohasan.com/
+
 http://faiazerblog.blogspot.com/
+
 http://chorui12.blogspot.com/
+
 https://techsharif.com/
+
 https://shikhorroy.wordpress.com/
+
 http://shakilcompetitiveprogramming.blogspot.com/
+
 https://returnzerooo.wordpress.com/
+
 http://blog.devskill.com/
 
 বাংলা স্ট্যাকওভারফ্লো !
