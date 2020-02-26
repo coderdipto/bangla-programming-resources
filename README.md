@@ -3,7 +3,7 @@
 
 বাংলা প্রোগ্রামিং ল্যাঙ্গুয়েজ 
 
-http://potaka.io/ \
+http://potaka.io/ &nbsp;
 https://github.com/ikrum/potaka/tree/master/docs
 
 বাংলায় প্রোগ্রামিং রিসোর্সের চমৎকার তালিকা
