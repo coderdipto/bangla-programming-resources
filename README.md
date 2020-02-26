@@ -1,17 +1,17 @@
-# Bangla-Programming-Resources
+# Bangla Programming Resources
 ## Curated list of different programming resources in Bangla
 
-বাংলা প্রোগ্রামিং ল্যাঙ্গুয়েজ 
+### বাংলা প্রোগ্রামিং ল্যাঙ্গুয়েজ 
 
 http://potaka.io/
 
 https://github.com/ikrum/potaka/tree/master/docs
 
-বাংলায় প্রোগ্রামিং রিসোর্সের চমৎকার তালিকা
+### বাংলায় প্রোগ্রামিং রিসোর্সের চমৎকার তালিকা
 
 https://github.com/me-shaon/bangla-programming-resources
 
-বাংলা ভাষায় প্রোগ্রামিং ব্লগ সমূহ
+### বাংলা ভাষায় প্রোগ্রামিং ব্লগ সমূহ
 
 http://apikothon.com/
 
@@ -45,15 +45,15 @@ https://returnzerooo.wordpress.com/
 
 http://blog.devskill.com/
 
-বাংলা স্ট্যাকওভারফ্লো !
+### বাংলা স্ট্যাকওভারফ্লো !
 
 https://www.programabad.com/
 
-বাংলায় ই-লার্নি এর সরকারি পদক্ষেপ
+### বাংলায় ই-লার্নি এর সরকারি পদক্ষেপ
 
 http://www.muktopaath.gov.bd/
 
-বাংলায় যারা প্রোগ্রামিং টিউটোরিয়াল বানাচ্ছেন
+### বাংলায় যারা প্রোগ্রামিং টিউটোরিয়াল বানাচ্ছেন
 
 Tamim Shahriar - https://www.youtube.com/user/subeents/videos
 
